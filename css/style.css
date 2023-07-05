@@ -200,6 +200,7 @@ footer .footer_item .footer_list{
 }
 footer .footer_item .footer_list li a{
 	text-decoration:none;
+	color:rgb(102,102,102);
 }
 footer .footer_item .footer_list li a:hover{
 	text-decoration-line:underline;
